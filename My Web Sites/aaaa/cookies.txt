@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+data4gsieutoc.com	TRUE	/	FALSE	1999999999	csrfToken	fd682d3b0046bfdc222cce9041439a1ea6bdfa8a9a82d2c80c64aaef551680807c58ff584c211a66b1816c5bd7b7747c1076dbfbe46ac011ddeec39ccedc4435
+
